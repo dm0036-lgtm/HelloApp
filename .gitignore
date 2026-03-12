@@ -1,6 +1,10 @@
+HEAD
 # .gitignore
 
 ### VS Code ###
+
+# VS Code
+ a2a47cc926422b82f52f34c68273537050b5d4b7
 .vscode/
 
 # Compiled class file
@@ -12,7 +16,11 @@
 .DS_Store
 *.iml
 
+ HEAD
 # Build Folders Exclusion
+
+# Build folders
+ a2a47cc926422b82f52f34c68273537050b5d4b7
 .idea/
 target/
 bin/
